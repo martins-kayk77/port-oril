@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+.topo{
+    background-color:bisque;
+    text-align: center;
+    
+}
+.links{
+    background-color: black;
+    overflow: hidden;
+}
+.links a{
+    color: aliceblue;
+    padding: 14px 16px;
+    float: left;
+    display: block;
+}
+.quem-sou-eu{
+    display: flex;
+   
+}
+.div1{
+    background-color: aquamarine;
+    padding-left: 15px 16px;
+    width: 50%;
+    text-align: center;
+}
+.div2{
+    background-color: aqua;
+    padding: 15px 16px;
+    width: 50%;
+    text-align: center;
+    
+}
